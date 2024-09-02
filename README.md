@@ -1,5 +1,0 @@
-print("Hello!")
-City = input("Enter your city name ")
-Pet = input("Enter your pet name ")
-print("Your New Brandname is")
-print(City+" "+Pet)
